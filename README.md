@@ -1,5 +1,9 @@
 # cof9c49929b5be072ce1eb02a
 
+## My Project Notes
+
+This is a digital business card I made with simple animations. You can hover over the photo as well as enjoy a symbolic sunrise depicting my location. I also learned how to nest flex elements in this project.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
